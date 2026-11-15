@@ -1,0 +1,6 @@
+{
+  "name": "Piulistrator Studio",
+  "description": "Portofolio kreatif dan pemesanan jasa desain grafis serta ilustrasi digital karya Syafi'ul Kholqi dengan integrasi Google Sheets CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

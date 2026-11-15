@@ -1,0 +1,336 @@
+{
+  "spreadsheetId": "1gaGDIVZvoGoF6I1-p4LFO7osTFju1Q1KVxCZgq6XYZI",
+  "lastSynced": "2026-09-13T01:33:41.096Z",
+  "headingLogo": "",
+  "profilePhoto": "https://lh3.googleusercontent.com/a/ACg8ocKpq8olx-Ng7YTnZ81M_Zw3gzwHIl61bGJMYPtTsj2yqzn9iNdD=s96-c",
+  "portfolioList": [
+    {
+      "id": "sheet-item-0-logo-hnc",
+      "title": "logo hnc",
+      "category": "Logo",
+      "categorySlug": "logo",
+      "client": "hnc",
+      "year": "2026",
+      "date": "2026",
+      "description": "sayembara logo",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "deliverables": "Format Cetak HD & Vektor Siap Pakai",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1pxKr9v3Tgdzbg3m-2Fph83yUDRXyb0f9&sz=w1200",
+      "hiResImageUrl": "https://drive.google.com/thumbnail?id=1pxKr9v3Tgdzbg3m-2Fph83yUDRXyb0f9&sz=w1200",
+      "badgeType": "primary",
+      "orderCategoryValue": "Logo - logo hnc"
+    },
+    {
+      "id": "sheet-item-1-poster-kemerdekaan",
+      "title": "poster kemerdekaan",
+      "category": "IG Feed & Poster",
+      "categorySlug": "ig-feed-poster",
+      "client": "nec",
+      "year": "2026",
+      "date": "2026",
+      "description": "lomba poster nec",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "deliverables": "Format Cetak HD & Vektor Siap Pakai",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1vhhRZLwumMVVnBUNNkS1nLhFDgJJbqNl&sz=w1200",
+      "hiResImageUrl": "https://drive.google.com/thumbnail?id=1vhhRZLwumMVVnBUNNkS1nLhFDgJJbqNl&sz=w1200",
+      "badgeType": "primary",
+      "orderCategoryValue": "IG Feed & Poster - poster kemerdekaan"
+    },
+    {
+      "id": "sheet-item-2-feed-isra-mikraj",
+      "title": "feed isra mikraj",
+      "category": "IG Feed & Poster",
+      "categorySlug": "ig-feed-poster",
+      "client": "fake project",
+      "year": "2026",
+      "date": "2026",
+      "description": "feed isra mikraj biru emas",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "deliverables": "Format Cetak HD & Vektor Siap Pakai",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1_DLxsyWv2C4AibZGF4sUAO8FKft_7uDl&sz=w1200",
+      "hiResImageUrl": "https://drive.google.com/thumbnail?id=1_DLxsyWv2C4AibZGF4sUAO8FKft_7uDl&sz=w1200",
+      "badgeType": "primary",
+      "orderCategoryValue": "IG Feed & Poster - feed isra mikraj"
+    },
+    {
+      "id": "sheet-item-3-1-dekade-stai-sj",
+      "title": "1 dekade stai sj",
+      "category": "Logo",
+      "categorySlug": "logo",
+      "client": "STAI SJ",
+      "year": "2026",
+      "date": "2026",
+      "description": "logo satu dekade stai syekh jangkung",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "deliverables": "Format Cetak HD & Vektor Siap Pakai",
+      "imageUrl": "https://drive.google.com/thumbnail?id=123_z7Yc0aEKPkIYPTgNgdo-LehQU6ICq&sz=w1200",
+      "hiResImageUrl": "https://drive.google.com/thumbnail?id=123_z7Yc0aEKPkIYPTgNgdo-LehQU6ICq&sz=w1200",
+      "badgeType": "primary",
+      "orderCategoryValue": "Logo - 1 dekade stai sj"
+    },
+    {
+      "id": "sheet-item-4-cover-jurnal",
+      "title": "cover jurnal",
+      "category": "Cover Buku",
+      "categorySlug": "cover-buku",
+      "client": "lppm stai sj",
+      "year": "2026",
+      "date": "2026",
+      "description": "cover jurnal ",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "deliverables": "Format Cetak HD & Vektor Siap Pakai",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1opzrhPTgkC8hRlqcnqTiswFog_-iGyQL&sz=w1200",
+      "hiResImageUrl": "https://drive.google.com/thumbnail?id=1opzrhPTgkC8hRlqcnqTiswFog_-iGyQL&sz=w1200",
+      "badgeType": "primary",
+      "orderCategoryValue": "Cover Buku - cover jurnal"
+    },
+    {
+      "id": "sheet-item-5-cover-jurnal",
+      "title": "cover jurnal",
+      "category": "Cover Buku",
+      "categorySlug": "cover-buku",
+      "client": "stai sj",
+      "year": "2026",
+      "date": "2026",
+      "description": "cover jurnal jipmi",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "deliverables": "Format Cetak HD & Vektor Siap Pakai",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1EQUVSSohnaw48JE3vVA2OuwGjmfrX_bv&sz=w1200",
+      "hiResImageUrl": "https://drive.google.com/thumbnail?id=1EQUVSSohnaw48JE3vVA2OuwGjmfrX_bv&sz=w1200",
+      "badgeType": "primary",
+      "orderCategoryValue": "Cover Buku - cover jurnal"
+    },
+    {
+      "id": "sheet-item-6-jurnal-liberi",
+      "title": "jurnal liberi",
+      "category": "Cover Buku",
+      "categorySlug": "cover-buku",
+      "client": "lppm stai sj",
+      "year": "2026",
+      "date": "2026",
+      "description": "desain cover jurnal liberi",
+      "tools": [
+        "Adobe Illustrator",
+        "Photoshop"
+      ],
+      "deliverables": "Format Cetak HD & Vektor Siap Pakai",
+      "imageUrl": "https://drive.google.com/thumbnail?id=15-YEsT5uTL4ZeJKgFiycfqucdiwTwr6k&sz=w1200",
+      "hiResImageUrl": "https://drive.google.com/thumbnail?id=15-YEsT5uTL4ZeJKgFiycfqucdiwTwr6k&sz=w1200",
+      "badgeType": "primary",
+      "orderCategoryValue": "Cover Buku - jurnal liberi"
+    }
+  ],
+  "servicesData": {
+    "tiers": [
+      {
+        "id": "sheet-tier-0",
+        "name": "Silver",
+        "tierLabel": "Pilihan Paket",
+        "price": "Rp100.000",
+        "priceNum": 100000,
+        "timeline": "2–3 Hari Kerja",
+        "revisions": "Revisi Fleksibel",
+        "features": [
+          {
+            "text": "Logo Monokrom (Hitam & Putih)"
+          },
+          {
+            "text": "Format Ekspor High-Res PNG transparan & JPG"
+          },
+          {
+            "text": "Resolusi 300 DPI siap pakai di media sosial"
+          }
+        ],
+        "isPopular": false,
+        "orderValue": "Paket Silver (Rp100.000)"
+      },
+      {
+        "id": "sheet-tier-1",
+        "name": "Gold",
+        "tierLabel": "Rekomendasi Utama",
+        "price": "Rp200.000",
+        "priceNum": 200000,
+        "timeline": "1–2 Hari Prioritas",
+        "revisions": "Revisi Fleksibel",
+        "features": [
+          {
+            "text": "Logo Full Color (Varian palette warna primer & alternatif)"
+          },
+          {
+            "text": "High-Res PNG Transparan, JPG & PDF Siap Cetak"
+          },
+          {
+            "text": "3D Mockup Visualisasi Realistis (Kaos, Kartu Nama, Toko)"
+          },
+          {
+            "text": "Panduan kode warna HEX / RGB / CMYK"
+          }
+        ],
+        "isPopular": true,
+        "orderValue": "Paket Gold (Rp200.000)"
+      },
+      {
+        "id": "sheet-tier-2",
+        "name": "Platinum",
+        "tierLabel": "Pilihan Paket",
+        "price": "Rp350.000",
+        "priceNum": 350000,
+        "timeline": "VIP Priority Express",
+        "revisions": "Revisi Fleksibel",
+        "features": [
+          {
+            "text": "Logo Full Color + Dokumen Filosofi & Konsep Makna Logo"
+          },
+          {
+            "text": "Master File Mentah Editable (.AI, .EPS, .SVG, .PSD)"
+          },
+          {
+            "text": "Mockup Komersial Eksklusif + Bebas Konsultasi Langsung"
+          }
+        ],
+        "isPopular": false,
+        "orderValue": "Paket Platinum (Rp350.000)"
+      }
+    ],
+    "singles": [
+      {
+        "id": "sheet-single-3",
+        "title": "IG Feed & Poster",
+        "badge": "Sosial Med",
+        "category": "Sosial Media",
+        "price": "Rp50.000",
+        "priceNum": 50000,
+        "turnaround": "1 Hari Pengerjaan",
+        "description": "Desain visual konten feeds tunggal, carousel panduan, atau poster promosi online beresolusi tajam siap upload.",
+        "orderValue": "IG Feed & Poster",
+        "icon": "design_services"
+      },
+      {
+        "id": "sheet-single-4",
+        "title": "Banner & Spanduk",
+        "badge": "Branding &",
+        "category": "Branding & Cetak",
+        "price": "Rp50.000",
+        "priceNum": 50000,
+        "turnaround": "1–2 Hari",
+        "description": "Spanduk toko, roll-up banner pameran, atau billboard outdoor disesuaikan skala real & profil warna CMYK mesin cetak.",
+        "orderValue": "Banner & Spanduk",
+        "icon": "design_services"
+      },
+      {
+        "id": "sheet-single-5",
+        "title": "Brosur / Flyer",
+        "badge": "Branding &",
+        "category": "Branding & Cetak",
+        "price": "Rp50.000",
+        "priceNum": 50000,
+        "turnaround": "1–2 Hari",
+        "description": "Layout brosur 1 sisi, 2 sisi, maupun format lipat (trifold/bifold) dengan tipografi rapi dan visual informatif.",
+        "orderValue": "Brosur / Flyer",
+        "icon": "design_services"
+      },
+      {
+        "id": "sheet-single-6",
+        "title": "Desain T-Shirt",
+        "badge": "Branding &",
+        "category": "Branding & Cetak",
+        "price": "Rp100.000",
+        "priceNum": 100000,
+        "turnaround": "2 Hari",
+        "description": "Artwork kaos distro/event, file transparan resolusi ultra high 300 DPI siap cetak sablon DTF atau plastisol beserta mockup pakaian realistis.",
+        "orderValue": "Desain T-Shirt",
+        "icon": "design_services"
+      },
+      {
+        "id": "sheet-single-7",
+        "title": "Kaligrafi Digital",
+        "badge": "Ilustrasi",
+        "category": "Ilustrasi",
+        "price": "Rp50.000",
+        "priceNum": 50000,
+        "turnaround": "1–2 Hari",
+        "description": "Kaligrafi kuffi, tsuluts, atau modern lettering digital untuk hiasan dinding, buku, suvenir acara perkawinan.",
+        "orderValue": "Kaligrafi Digital",
+        "icon": "design_services"
+      },
+      {
+        "id": "sheet-single-8",
+        "title": "Digital Illustration",
+        "badge": "Ilustrasi",
+        "category": "Ilustrasi",
+        "price": "Rp100.000",
+        "priceNum": 100000,
+        "turnaround": "2–3 Hari",
+        "description": "Ilustrasi karakter, avatar potret, atau visual editorial bertema modern khas gaya Piulistrator.",
+        "orderValue": "Digital Illustration",
+        "icon": "design_services"
+      },
+      {
+        "id": "sheet-single-9",
+        "title": "Cover Buku",
+        "badge": "Branding &",
+        "category": "Branding & Cetak",
+        "price": "Rp50.000",
+        "priceNum": 50000,
+        "turnaround": "1–2 Hari",
+        "description": "Desain lengkap cover depan, punggung buku (spine), dan cover belakang disesuaikan tebal halaman penerbit.",
+        "orderValue": "Cover Buku",
+        "icon": "design_services"
+      },
+      {
+        "id": "sheet-single-10",
+        "title": "Sertifikat",
+        "badge": "Formal",
+        "category": "Formal",
+        "price": "Rp25.000",
+        "priceNum": 25000,
+        "turnaround": "24 Jam",
+        "description": "Sertifikat penghargaan / pelatihan / webinar dengan layout formal elegan & siap cetak nama massal.",
+        "orderValue": "Sertifikat",
+        "icon": "design_services"
+      },
+      {
+        "id": "sheet-single-11",
+        "title": "Twibbon Event",
+        "badge": "Sosial Med",
+        "category": "Sosial Media",
+        "price": "Rp25.000",
+        "priceNum": 25000,
+        "turnaround": "24 Jam",
+        "description": "Bingkai foto transparan untuk kampanye Instagram, kepanitiaan event kampus, atau hari besar nasional.",
+        "orderValue": "Twibbon Event",
+        "icon": "design_services"
+      },
+      {
+        "id": "sheet-single-12",
+        "title": "ID Card & Lanyard",
+        "badge": "Formal",
+        "category": "Formal",
+        "price": "Rp25.000",
+        "priceNum": 25000,
+        "turnaround": "24 Jam",
+        "description": "Format ukuran standar cetak kartu PVC atau kertas laminasi, termasuk template nama panitia atau karyawan.",
+        "orderValue": "ID Card & Lanyard",
+        "icon": "design_services"
+      }
+    ]
+  }
+}
